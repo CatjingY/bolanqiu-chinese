@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = 'CatjingY.github.io';
 
 // 修改网页标题：将 "合成母亲" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成法法';
+document.getElementsByTagName("title")[0].innerText = '合成中国';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
